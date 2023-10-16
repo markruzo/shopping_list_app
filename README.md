@@ -1,4 +1,4 @@
-# Meals App
+# Shopping List
 
 A Shopping List
 
