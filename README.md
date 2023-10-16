@@ -5,6 +5,16 @@ A Shopping List
 ## Next Step
 
 - Dismissed etc.
+- Buttons
+     FractionallySizedBox(
+                widthFactor: 1.0,
+                child: TextButton(
+                  onPressed: () {
+                    _formKey.currentState!.reset();
+                  },
+                  child: const Text('Reset'),
+                ),
+              ),
 
 # Screens
 
