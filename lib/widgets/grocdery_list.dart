@@ -36,6 +36,8 @@ class _GroceryListState extends State<GroceryList> {
       });
     }
 
+    // Insert Try and Catch
+
     if (response.body == 'null') {
       setState(() {
         _isLoading = false;
