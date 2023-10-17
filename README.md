@@ -4,11 +4,9 @@ A Shopping List
 
 ## Next Step
 
-- HTTP Request etc.
+- HTTP Request
 - POST Request Firebase
 - Error Handling
-- etc.
-
 
 # Screens
 
