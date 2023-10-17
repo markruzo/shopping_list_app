@@ -4,10 +4,11 @@ A Shopping List
 
 ## Next Step
 
-- Dismissed etc.
 - HTTP Request etc.
-- Connecting a Backend
+- POST Request Firebase
+- Error Handling
 - etc.
+
 
 # Screens
 
